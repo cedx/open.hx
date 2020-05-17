@@ -2,7 +2,6 @@
 .* text
 
 *.cjs text
-*.cmd text
 *.http text
 *.hx text
 *.hxml text
